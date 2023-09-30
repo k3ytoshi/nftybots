@@ -1,10 +1,5 @@
 TH3 GR3Y "growth hacking tool" 
 
-Creator - https://github.com/keat0n
-
-For custom inquiries please email k34t0n@protonmail.com
-
-
 Enviornment
 - Python 3.7.0 + 
 - Bash / Shell 
